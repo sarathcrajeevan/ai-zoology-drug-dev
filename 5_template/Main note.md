@@ -1,0 +1,8 @@
+
+
+{{date}} {{time}}
+
+tag:
+
+
+# {{Title}}
