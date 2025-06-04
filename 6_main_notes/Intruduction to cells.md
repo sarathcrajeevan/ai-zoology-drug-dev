@@ -18,7 +18,7 @@ the universal feature on life on earth is like waves and candle life needs [[fre
 
 
 
-#### all cells carry hereditary information in the form of Double strand DNA molecules 
+### all cells carry hereditary information in the form of Double strand DNA molecules 
 
 
 

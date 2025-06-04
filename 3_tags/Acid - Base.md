@@ -16,8 +16,19 @@ pH of acid < 7
 | NH4+          | $\ce{F-}$        |
 | proton doners | proton accepters |
 
+### stability of negative charge 
 
- protons are basically 
+
+when we consider oxygen and Sulphur with negative charge sulphur will be weaker base and more stable than oxygen
+
+
+atoms that is bigger that can stabilize better
+
+consider the oxygen atom and the nitrogen atom. oxygen atom is more electronegative than nitrogen atom and the size difference is not that much oxygen atom is more stable is a weak base
+
+
+
+
 
 
 
