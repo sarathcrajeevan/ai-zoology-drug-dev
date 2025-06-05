@@ -26,6 +26,14 @@ atoms that is bigger that can stabilize better
 
 consider the oxygen atom and the nitrogen atom. oxygen atom is more electronegative than nitrogen atom and the size difference is not that much oxygen atom is more stable is a weak base
 
+### factors effecting stability of negative charge
+
+
+| atomic size                                     | putting negative charge on bigger atom create more stabilized situation               |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [[electronegativity]]                           | putting negative charge on more electronegative atom can create more stable situation |
+| resonance stabilization/electron delocalization | when you spread out the negative charge to the more region it will more stable        |
+| [[inductive effect]]                            |                                                                                       |
 
 
 
