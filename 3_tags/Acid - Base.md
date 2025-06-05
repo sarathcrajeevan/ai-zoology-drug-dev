@@ -29,11 +29,14 @@ consider the oxygen atom and the nitrogen atom. oxygen atom is more electronegat
 ### factors effecting stability of negative charge
 
 
-| atomic size                                     | putting negative charge on bigger atom create more stabilized situation               |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [[electronegativity]]                           | putting negative charge on more electronegative atom can create more stable situation |
-| resonance stabilization/electron delocalization | when you spread out the negative charge to the more region it will more stable        |
-| [[inductive effect]]                            |                                                                                       |
+| atomic size                                         | putting negative charge on bigger atom create more stabilized situation               |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [[electronegativity]]                               | putting negative charge on more electronegative atom can create more stable situation |
+| [[resonance]] stabilization/electron delocalization | when you spread out the negative charge to the more region it will more stable        |
+| [[inductive effect]]                                |                                                                                       |
+| [[solvating effect]]                                |                                                                                       |
+| aromatic ring system                                |                                                                                       |
+| hybridization                                       |                                                                                       |
 
 
 
