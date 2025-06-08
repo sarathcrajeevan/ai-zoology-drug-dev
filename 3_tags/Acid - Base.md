@@ -19,7 +19,7 @@ pH of acid < 7
 ### stability of negative charge 
 
 
-when we consider oxygen and Sulphur with negative charge sulphur will be weaker base and more stable than oxygen
+when we consider oxygen and Sulphur with negative charge Sulphur will be weaker base and more stable than oxygen
 
 
 atoms that is bigger that can stabilize better
