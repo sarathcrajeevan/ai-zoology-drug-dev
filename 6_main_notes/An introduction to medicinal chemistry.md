@@ -13,7 +13,11 @@ penicillium which considered as the  safest drug also have some allergic effects
 
 morphine is analgesic but causes series side effects
 
+heroin as a drug called diamorphine for treating people dying of cancer
 
+cannabis preparation has been approved as it relieve the symptom of multiple sclerosis
+
+[[Arsenic]] 
 
 
 
