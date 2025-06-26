@@ -6,5 +6,5 @@ it is formed when the hydrogen reacted to N,O,F
 
 higher boiling point
 
-higher solubolity
+higher solubility
 
