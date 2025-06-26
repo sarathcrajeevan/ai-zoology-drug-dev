@@ -1,0 +1,6 @@
+
+area under the curve
+
+
+
+
