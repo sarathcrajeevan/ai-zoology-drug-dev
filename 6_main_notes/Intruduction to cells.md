@@ -10,7 +10,7 @@ tag:
 
 
 1
-what is life? when we look at the past our ancestor's find something similar in trees , tigers and butterfly without knowing the what [[DNA]] is which  is life
+what is life? when we look at the past our ancestor's find something similar in trees , tigers and butterfly without knowing the what [[DNA]] is which is life
 
 
 
