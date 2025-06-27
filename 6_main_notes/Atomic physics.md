@@ -36,3 +36,24 @@ combining these two Laws Dalton proposed
 
 
 there are different type of atoms that can form different molecules
+
+
+
+
+further improvement was done by Dobereiner, Newlands, Meyer and finally Mendeleev in  1871
+
+
+it was grouped into different groups
+
+ordered according to the mass
+
+[[ionizing energy ]] 
+
+[[electron affinity]]
+
+
+
+
+
+
+
