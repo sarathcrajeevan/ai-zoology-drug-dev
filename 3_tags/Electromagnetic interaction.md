@@ -2,7 +2,7 @@
 
 
 
-equal [[charges]] repel each other 
+equal [[Charge]] repel each other 
 
 opposite charges attract each other
 

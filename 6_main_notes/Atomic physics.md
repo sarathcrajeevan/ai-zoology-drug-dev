@@ -2,7 +2,7 @@
 ## Introduction
 
 
-mass charge and spin 
+[[mass]] [[charge]] and spin 
 
 
 ### what is matter? Is matter continuous or are there elementary particles?
