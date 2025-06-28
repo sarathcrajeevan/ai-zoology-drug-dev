@@ -1,2 +1,2 @@
 
-when two molecules in the opposite charges sit beside each other it attracts
+when two molecules in the opposite [[charge]]s sit beside each other it attracts

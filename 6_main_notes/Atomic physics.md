@@ -2,6 +2,9 @@
 ## Introduction
 
 
+
+tags : [[Electron]], [[electrostatic interaction]] ,[[Electromagnetic interaction]] ,[[Charge]],[[Force]],[[Vectors]],[[Integral]],[[Gravity]]
+
 [[mass]] [[charge]] and spin 
 
 
@@ -50,6 +53,48 @@ ordered according to the mass
 [[ionizing energy ]] 
 
 [[electron affinity]]
+
+
+### Plum pudding model 
+
+
+atom consist of electrons which are negatively charged
+overall atoms are charge neutral
+
+1903 Thomas First model with internal structure 
+
+sub atomic structure
+
+internal structure and internal charge separation
+
+
+### Scattering experiments 
+
+
+Rutherford 1911 : gold foil experiment
+
+
+### Rutherford model
+
+
+
+Rutherford 1911
+
+positive charge is centered in the nucleus
+
+internal structure - nucleus was discovered 
+
+internal charge and mass separation
+
+cannot explain stability
+
+
+
+
+
+
+
+
 
 
 

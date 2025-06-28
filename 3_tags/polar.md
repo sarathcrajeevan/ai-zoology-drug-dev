@@ -1,6 +1,6 @@
 
 
-polarized object is a object that is neutral overall with charge separation
+polarized object is a object that is neutral overall with [[charge]] separation
 
 
 

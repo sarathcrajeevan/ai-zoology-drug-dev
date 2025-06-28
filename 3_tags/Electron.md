@@ -25,3 +25,6 @@ energy corresponding to coulomb law
 in quantum physics electron is a mixture of particle and wave
 
 
+
+
+
