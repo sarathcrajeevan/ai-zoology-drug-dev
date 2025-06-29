@@ -151,6 +151,24 @@ electrons will behave like wave and particle at the same time
 
 
 
+consider a electron without it will also behave like waves
+
+in the box there is a cat and there is a poison any time cat can eat that poison and became dead since it is closed box state of the cat is in super position 
+
+wave function of the cat is wave function of the dead cat and wave function of the cat alive
+
+
+
+### Heisenberg uncertainty principle 
+
+
+
+
+
+
+
+
+
 
 
 
