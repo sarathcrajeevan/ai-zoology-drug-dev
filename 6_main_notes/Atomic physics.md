@@ -95,29 +95,52 @@ size of the nucleus is much much smaller than atom
 
 
 
-### photoelectric effect
+### photoelectric effect (revisit the lecture) 34
 
 emission of the electrons start at particular frequency and it is independent of the light
 
+linear function 
+
+Planck constant
+
+light has the quantum like properties
+
+transmitted energy energy of the light comes in portions
+
+independent on intensity but dependent on frequency
+
+light consist of micromagnetic waves and also particles in terms of quanta
 
 
 
 
 
 
+### Bohr's model
+
+
+Electrons orbit the nucleus on discrete orbits. Angular momentum 
+
+different quantized energy level for the electron
+
+internal charge and charge separation
+
+explains peaked emission and absorption spectra
+
+when we shine light to a atom the electron could move to different orbital
+
+cannot be stable
+
+if we accelerate charges it will emit electromagnetic waves 
 
 
 
+### Double slit experiment
 
 
+Young 1801
 
+in this light has wave like properties
 
-
-
-
-
-
-
-
-
+light can interfere with each other
 
