@@ -105,7 +105,7 @@ Planck constant
 
 light has the quantum like properties
 
-transmitted energy energy of the light comes in portions
+transmitted  energy of the light comes in portions
 
 independent on intensity but dependent on frequency
 
@@ -143,4 +143,15 @@ Young 1801
 in this light has wave like properties
 
 light can interfere with each other
+
+electrons will behave like wave and particle at the same time
+
+
+### Schrodinger's cat experiment
+
+
+
+
+
+
 
