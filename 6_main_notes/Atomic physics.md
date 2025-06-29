@@ -97,6 +97,8 @@ size of the nucleus is much much smaller than atom
 
 ### photoelectric effect
 
+emission of the electrons start at particular frequency and it is independent of the light
+
 
 
 
