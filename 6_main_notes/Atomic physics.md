@@ -88,6 +88,11 @@ internal charge and mass separation
 
 cannot explain stability
 
+size of the nucleus is much much smaller than atom
+
+
+## Quantum description of atoms
+
 
 
 
