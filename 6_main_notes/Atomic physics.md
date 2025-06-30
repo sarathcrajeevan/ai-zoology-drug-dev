@@ -173,3 +173,6 @@ wave function of the cat is wave function of the dead cat and wave function of t
 
 
 
+
+
+
