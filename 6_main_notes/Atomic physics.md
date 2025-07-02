@@ -164,13 +164,20 @@ wave function of the cat is wave function of the dead cat and wave function of t
 
 1927 position and momentum cannot be measured accurately at the same time
 
-if we measure electron, at least one photon will interact with and affect its momentum
+if we measure [[electron]], at least one photon will interact with and affect its momentum
 
 if we precisely measure x  we do not know anything about p
 
 
 
 $\Delta x \, \Delta p \geq \frac{\hbar}{2}$
+
+$$\begin{align} \Delta x = \text{uncertainty in position}\\ 
+\Delta p = \text{uncertainty in momentum} \end{align}$$
+
+
+
+
 
 
 
