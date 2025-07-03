@@ -23,6 +23,17 @@ the universal feature on life on earth is like waves and candle life needs [[fre
 ### all cells carry hereditary information in the form of Double strand DNA molecules 
 
 
+2 
+all the cells stores information as in a computer in the form of double stranded molecules of DNA which is composed of long unbranched polymer chains which consist of monomers which are A,T,G,C . we can take a piece of  DNA and successfully read and insert in other organisms like bacterium
+
+
+### all cells replicate their hereditary information in the by templated polymerization
+
+
+4
+each monomer in a single DNA strand consist of two parts a sugar with phosphate group    attached to it 
+
+
 
 
 
