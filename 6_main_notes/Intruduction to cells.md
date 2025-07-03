@@ -1,5 +1,4 @@
-
-
+``
 2025-05-17 04:47
 
 tag:
@@ -31,8 +30,16 @@ all the cells stores information as in a computer in the form of double stranded
 
 
 4
-each monomer in a single DNA strand consist of two parts a sugar with phosphate group    attached to it 
+each monomer in a single [[DNA]] strand consist of two parts a sugar with phosphate group    attached to it 
 
+DNA is the information store for hereditary 
+
+templated polymerization is the way in which the information is copied through out the living world 
+
+
+### All cells transcribe portions of their DNA into RNA molecules
+
+to carry out the information bearing property the DNA must be doing 
 
 
 
