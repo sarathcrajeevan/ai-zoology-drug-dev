@@ -5,7 +5,7 @@
 
 tags : [[Electron]], [[electrostatic interaction]] ,[[Electromagnetic interaction]] ,[[Charge]],[[Force]],[[Vectors]],[[Integral]],[[Gravity]]
 
-[[mass]] [[charge]] and spin 
+[[mass]] [[charge]] and [[spin]] 
 
 
 ### what is matter? Is matter continuous or are there elementary particles?
@@ -198,3 +198,26 @@ stable no circular orbits
 we have different quantum number
 
 eigenvalues are the energies of the electron`s in` orbital 
+
+
+principle quantum number
+n = 1 ,  
+indicates energy
+it determines size and energy of orbitals
+
+azimuthal (angular momentum)
+l = 1
+shape of the orbital
+
+
+magnetic quantum number
+
+Specifies the **orientation** of the orbital in space.
+    
+
+ml
+
+
+spin quantum number
+
+
