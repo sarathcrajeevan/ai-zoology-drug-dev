@@ -192,8 +192,10 @@ when we calculate we get a density there is were electron - electron probability
 
 stable no circular orbits
 
+### Atomic Orbitals
 
 
+we have different quantum number
 
 
 
