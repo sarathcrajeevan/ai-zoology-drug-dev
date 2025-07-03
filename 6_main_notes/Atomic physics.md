@@ -1,5 +1,4 @@
-`````````````
-```
+
 ## Introduction
 
 
@@ -198,20 +197,4 @@ stable no circular orbits
 
 we have different quantum number
 
-eigenvalues are the energies of the electron`s in` orbital`````
-```
-```
-```
-```
-```
-```
-
-
-
-
-
-
-
-
-
-
+eigenvalues are the energies of the electron`s in` orbital 
