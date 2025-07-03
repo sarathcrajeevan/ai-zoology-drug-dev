@@ -176,7 +176,21 @@ $$\begin{align} \Delta x = \text{uncertainty in position}\\
 \Delta p = \text{uncertainty in momentum} \end{align}$$
 
 
+## Quantum mechanics
 
+
+
+Schrodinger 1926
+
+function
+$i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r}, t) = \hat{H} \Psi(\mathbf{r}, t)$
+
+
+allows to calculate the probability to find the electron at a position
+
+when we calculate we get a density there is were electron - electron probability density
+
+stable no circular orbits
 
 
 
