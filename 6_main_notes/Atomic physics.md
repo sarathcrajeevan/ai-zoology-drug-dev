@@ -218,7 +218,20 @@ Specifies the **orientation** of the orbital in space.
 ml
 
 
-spin quantum number
+[[spin]] quantum number
+
+
+there is always randomness in quantum mechanics
+
+45 .  [[spin]] .  come after studying differentiation linear algebra and calculus
+
+
+### classical interpretation of spin
+
+
+
+
+
 
 
 
