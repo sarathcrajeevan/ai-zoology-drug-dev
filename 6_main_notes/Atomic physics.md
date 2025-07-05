@@ -226,7 +226,18 @@ there is always randomness in quantum mechanics
 45 .  [[spin]] .  come after studying differentiation linear algebra and calculus
 
 
-### classical interpretation of spin
+### classical interpretation of spin and uncertainty
+
+46.
+
+
+### Pauli's exclusion principle
+
+
+
+
+
+
 
 
 
