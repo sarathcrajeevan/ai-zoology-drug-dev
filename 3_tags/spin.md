@@ -12,7 +12,7 @@ spin in mathematics is the quantity that describes the symmetry
 
 objects looks same after 360 degree rotation
 
-electrons have a spin of 1/2 this object looks same after 720 degree of rotation
+[[electron]]s have a spin of 1/2 this object looks same after 720 degree of rotation
 
 anti electron means positrons have a spin of 1/2
  it related to relativity

@@ -10,7 +10,7 @@ sub atomic particle
 
 [[charge]]   -e = 1.602 177 * 10^-19  C
 
-Mass       m = 9.109 384 * 10^-31 kg
+[[Mass]]       m = 9.109 384 * 10^-31 kg
 
 
 
