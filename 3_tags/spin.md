@@ -5,3 +5,4 @@ spin is the third quantity beside charge and mass that should be characterize el
 
 
 observation of spin was first found in the so called stern Gerlach experiment 
+
