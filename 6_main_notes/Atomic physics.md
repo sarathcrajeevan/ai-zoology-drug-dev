@@ -231,7 +231,7 @@ there is always randomness in quantum mechanics
 46.
 
 
-### Pauli's exclusion principle
+### [[Pauli's exclusion principle for fermions]]
 
 
 
