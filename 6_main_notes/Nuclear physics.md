@@ -8,7 +8,7 @@ in 1917 Rutherford repeated the gold foil experiment with the hydrogen and nitro
 
 when we look at the Atomic [[mass]] it is the multiple of hydrogen nucleus
 
-Hydrogen nuclei are elementary particles called [[Proton]]s  
+Hydrogen nuclei are considered elementary particles called [[Proton]]s  
 
 
 
