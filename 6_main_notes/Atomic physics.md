@@ -235,6 +235,23 @@ there is always randomness in quantum mechanics
 
 
 
+### Term diagram: energy level of atoms
+
+
+Energy levels (also called **electron shells**) are regions around the nucleus where electrons are likely to be found
+
+
+refer this again - 49.
+
+### Hund's rule
+
+
+1. Pauli's principle full shell have zero total momentum
+2. maximize spin
+3. next maximize angular momentum
+4. Al = 1s2 2s2 2p6 3s2 3p1 , Si = 1s2 2s2 2p6 3s2 3p2 , P = 1s2 2s2 2p6 3s2 3p3
+
+
 
 
 
