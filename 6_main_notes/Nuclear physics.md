@@ -21,7 +21,26 @@ Soddy 1913 experiments with radioactive decay products
 Thomson 1913 : Experiment with neon ions Two distinct spots suggest two different neon atom with different masses
 
 
+### this later lead to the discovery of [[neutrons]]
 
+
+
+| Isotopes                             | Isobars                          | Isotones                | Isodiaphers | isomer                              | Mirror nuclei                                                                  |
+| ------------------------------------ | -------------------------------- | ----------------------- | ----------- | ----------------------------------- | ---------------------------------------------------------------------------- |
+| same number of protons and electrons | same number of Nucleons and mass | same number of neutrons | N - P       | same number of protons and neutro same number of Nucleons at the same time exchange the neutrons and protons   ime   |
+
+
+### Stability of Atoms
+
+
+Decay 
+
+Mass is lost as binding energy
+
+
+$E = mc^2$
+
+stability of the atom can be determined by average binding energy per nucleon
 
 
 
