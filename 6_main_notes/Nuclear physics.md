@@ -45,10 +45,42 @@ stability of the atom can be determined by average binding energy per nucleon
 
 ### Quarks
 
-Protons and neutrons can be further divided
- it can be observed after collision at high energies 
+Protons and neutrons can be further divided which consist of quarks
+it can be observed after collision at high energies 
  
-MeV instead of eV
+(MeV instead of eV)
+
+protons consist of up ,up ,down quark
+
+Neutron consist of up ,down ,down quark
+
+
+sea of gluons and quark-antiquark pairs
+
+quarks are fermions
+
+four other quarks are observed 
+
+
+
+### Strong interaction between nucleons and strong force
+
+
+strong interaction will only work with the quarks 
+
+strong interaction that holds together quarks will also attract protons and neutrons or protons and protons
+
+
+Strong force
+
+Nuclear force
+
+      
+
+
+
+
+
 
 
 
