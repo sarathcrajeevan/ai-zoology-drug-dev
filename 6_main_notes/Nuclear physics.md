@@ -75,12 +75,24 @@ Strong force
 
 Nuclear force
 
+coulomb force is repulsive 
+
+
+
+### Liquid drop model
+
+
+
+1930 Gamow nucleus behave like an incompressible liquid: Volume and surface contributions to energy
 
 
 
 
+### Semi empirical mass formula: Bethe- Weizsacker formula for binding energy
 
 
+
+electrostatic force 
 
 
 
