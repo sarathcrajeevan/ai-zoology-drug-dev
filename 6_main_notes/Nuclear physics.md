@@ -103,4 +103,13 @@ $$
 
 
 
+Magic numbers = 2,8,20,28,50,82,126
+
+
+
+### Nuclear shell model
+
+Wigner, Meyer, Jensen 1949 (Nobel prize 1963)
+
+protons and neutrons are independent
 
