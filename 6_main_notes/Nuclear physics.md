@@ -116,3 +116,32 @@ Wigner, Meyer, Jensen 1949 (Nobel prize 1963)
 
 protons and neutrons are independent
 
+
+
+## Radioactivity and nuclear decay
+
+
+1895 X ray
+1896 curie did experiment with uranium
+discovered[[ radioactivity]] 
+
+
+
+
+## [[Ionizing radiation]] 
+
+
+
+
+particle are generated from the nuclear decay: 
+
+alpha particles 
+beta particles
+
+electromagnetic waves 
+
+high energy ultraviolet 
+
+X rays
+
+gamma rays
