@@ -94,6 +94,13 @@ coulomb force is repulsive
 
 electrostatic force 
 
+Pauli's principle
+
+
+
+$$B(A, Z) = a_v A - a_s A^{2/3} - a_c \frac{Z(Z - 1)}{A^{1/3}} - a_a \frac{(A - 2Z)^2}{A} + \delta(A, Z)
+$$
+
 
 
 
