@@ -149,4 +149,10 @@ gamma rays
 nucleus changes on radiation
 
 
+## Alpha decay and Alpha particles
+
+
+alpha particle are helium nucleus(2 protons,  2  neutron)
+
+
 
