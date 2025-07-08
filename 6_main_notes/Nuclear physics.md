@@ -145,3 +145,8 @@ high energy ultraviolet
 X rays
 
 gamma rays
+
+nucleus changes on radiation
+
+
+
