@@ -154,5 +154,12 @@ nucleus changes on radiation
 
 alpha particle are helium nucleus(2 protons,  2  neutron)
 
+for small distance strong interaction dominates and large distance electromagnetic interaction  
+
+alpha particle are easy to shield
 
 
+### Neutrinos and antineutrinos
+
+
+Pauli and Fermi  
