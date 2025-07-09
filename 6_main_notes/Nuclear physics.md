@@ -163,3 +163,18 @@ alpha particle are easy to shield
 
 
 Pauli and Fermi  
+
+Neutrino 1956 Detected by Renes 
+
+spin - 1/2
+
+charge - 0
+
+
+antineutrino
+
+antiparticle of the neutrino
+
+
+## beta decay
+
