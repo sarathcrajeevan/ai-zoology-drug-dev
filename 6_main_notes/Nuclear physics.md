@@ -196,3 +196,7 @@ similar to the beta decay
 
 
 electron will merge with nucleus 
+
+
+### Decay chains
+
