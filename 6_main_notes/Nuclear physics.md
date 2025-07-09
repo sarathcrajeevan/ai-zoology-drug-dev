@@ -188,3 +188,11 @@ beta plus decay - protons change into neutrons and as a byproduct will give posi
 
 occurs right after alpha and beta decay
 
+
+
+### Electron capture
+
+similar to the beta decay
+
+
+electron will merge with nucleus 
