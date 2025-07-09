@@ -178,3 +178,13 @@ antiparticle of the neutrino
 
 ## beta decay
 
+beta minus decay -neutrons turns into protons as byproduct will give electrons and antineutrinos
+
+beta plus decay - protons change into neutrons and as a byproduct will give positrons and neutrinos 
+
+
+### Gamma decay
+
+
+occurs right after alpha and beta decay
+
