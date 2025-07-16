@@ -15,4 +15,5 @@ objects looks same after 360 degree rotation
 [[electron]]s have a spin of 1/2 this object looks same after 720 degree of rotation
 
 anti electron means positrons have a spin of 1/2
- it related to relativity
+
+it related to relativity
