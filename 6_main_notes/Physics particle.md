@@ -19,8 +19,8 @@ we can categorize standard model of elementary particle based on their spin
 
 ### Antiparticle
 
-same [[spin]] and mass
-opposite charge
+same [[spin]] and [[mass]]
+opposite [[charge]]
 
 # Fermion:
 
