@@ -103,6 +103,12 @@ weak interaction is the only breaks parity symmetry and charge conjugation symme
 
 
 
+### Higgs boson
+
+in initial theory all the interaction carries should contain zero mass however the z boson and the w boson contain a definite mass which is because of the another quantum field, field is called Higgs field and the particle called Higgs particle
+
+
+Higgs mechanism is because particles their mass
 
 
 
