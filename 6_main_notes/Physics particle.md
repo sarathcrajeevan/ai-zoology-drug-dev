@@ -97,7 +97,9 @@ strong interaction
 
 interaction particle w and z boson have weak interaction
 
+they have chirality
 
+weak interaction is the only breaks parity symmetry and charge conjugation symmetry
 
 
 
