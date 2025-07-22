@@ -21,7 +21,7 @@ data comes from the measurement devices
 | -------- | --------------------------------------- | ------------ |
 | Interval | Numeric scale with meaningful intervals | Temp. in C   |
 | Ratio    | interval, but also with meaningful zero | Height in cm |
-| Discrete | No arbitary preci                       |              |
+| Discrete | No arbitrary preci                      |              |
 
 
 
