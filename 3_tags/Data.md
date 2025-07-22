@@ -21,11 +21,38 @@ data comes from the measurement devices
 | -------- | --------------------------------------- | ------------ |
 | Interval | Numeric scale with meaningful intervals | Temp. in C   |
 | Ratio    | interval, but also with meaningful zero | Height in cm |
-| Discrete | No arbitrary preci                      |              |
+| Discrete | No arbitrary precision                  | population   |
+|          |                                         |              |
+
+
+
+#### Categorical
+
+
+| Type     | description             | Example     |
+| -------- | ----------------------- | ----------- |
+| ordinal  | sortable, discrete      | Education   |
+| Norminal | Non sortable, discreate | Movie genre |
+
+
+some statistical analysis only applicable to particular data
 
 
 
 
+## Population data
+
+Data from all members of the group
+
+Number of lions in the zoo
+
+Facebook group members
 
 
 
+
+## Sample Data
+
+Data from some members of the group
+
+Average height of Italians
