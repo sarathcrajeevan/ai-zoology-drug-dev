@@ -1,2 +1,2 @@
 
-darwinte theory prakaram survival of the fittest aanu pakshe fittest ethanu individual aano species aano ? individuals palapozhum speciesine samrakshikan sacrifice cheyarind. angane nokumbol 
+darwinte theory prakaram survival of the fittest aanu pakshe fittest ethanu individual aano species aano ? individuals palapozhum speciesine samrakshikan sacrifice cheyarind. angane nokumbol ee damselfly ku guarding behavior und for predaternu guard cheyunna samayathu predatersinu pettannu kannan pattunath males ne anu so individual sacrifice nadakan sathyatha koodthal aanelum species wiseum overall fertilation nokkumbol beneficial aanu
