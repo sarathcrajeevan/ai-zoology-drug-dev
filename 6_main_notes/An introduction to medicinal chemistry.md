@@ -19,7 +19,3 @@ cannabis preparation has been approved as it relieve the symptom of multiple scl
 
 [[Arsenic]] 
 
-
-
-
-
