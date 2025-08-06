@@ -1,6 +1,6 @@
 
 
 
-glycolysis derive from the word glyk
+glycolysis derive from the word glykys which means sweet or sugar and lysis which means splitting
 
 
