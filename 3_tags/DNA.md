@@ -1,6 +1,19 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+\
+
+
 DNA is made up of of [[nucleotide]]s, it consist of sugar of a specific arrangement of 35 [[covalent]]ly linked atoms forming a sugar phosphate groups or base attached to it. bases means adenine guanine thymine cytosine 
 
 
