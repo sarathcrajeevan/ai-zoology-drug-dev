@@ -28,7 +28,7 @@ all the cells stores information as in a computer in the form of double stranded
 
 ### all cells replicate their hereditary information in the by templated polymerization
 
-
+S
 4
 each monomer in a single [[DNA]] strand consist of two parts a sugar with phosphate group    attached to it 
 
