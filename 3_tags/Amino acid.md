@@ -3,7 +3,7 @@ it is the biological macro molecule
 two stereoisomerism
 since they are non super impossible they are enantiomers
 
-GAPVLIMFYWSTCNQKHRDE
+GAPVLIM FYW STCNQ KHR DE
 
 ## some [[protein]] contain chemical groups other than amino acid
 
