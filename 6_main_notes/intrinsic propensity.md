@@ -1,0 +1,1 @@
+it usually refers to the **natural tendency of an amino acid residue** (or a peptide segment) to adopt a certain **secondary structure** (like an α-helix or β-sheet), based on its **chemical properties**.

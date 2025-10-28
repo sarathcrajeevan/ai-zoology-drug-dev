@@ -30,7 +30,7 @@ consider the oxygen atom and the nitrogen atom. oxygen atom is more electronegat
 
 | atomic size                                         | putting negative charge on bigger atom create more stabilized situation               |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| [[electronegativity]]                               | putting negative charge on more electronegative atom can create more stable situation |
+| [[curious/3_tags/electronegative]]                               | putting negative charge on more electronegative atom can create more stable situation |
 | [[resonance]] stabilization/electron delocalization | when you spread out the negative charge to the more region it will more stable        |
 | [[inductive effect]]                                |                                                                                       |
 | [[solvating effect]]                                |                                                                                       |

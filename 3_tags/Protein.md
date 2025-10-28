@@ -41,3 +41,20 @@ another common type is $\beta$ turn
 
 secondary structures without a regular pattern are called random coils
 
+### alpha helix   
+
+Pauling and Corey  
+
+in this structure the polypeptide backbone is tightly wound around the imaginary longitudinal in the middle of the helix
+
+there are right handed and left handed $\alpha$ helix 
+
+why does alpha helix forms more readily than many other conformation?
+    optimal use of intrahelical hydrogen bond. the structure is stabilized by the hydrogen bond between the hydrogen atom attached to the [[electronegative]] nitrogen atom of peptide linkage  and the electronegative carbonyl oxygen atom of fourth amino acid
+
+
+##### Amino acid sequence affects stability of alpha helix
+
+not all amino acid have [[intrinsic propensity]] to form $\alpha$ helix, reflecting the properties of the R group 
+
+
