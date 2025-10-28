@@ -57,4 +57,12 @@ why does alpha helix forms more readily than many other conformation?
 
 not all amino acid have [[intrinsic propensity]] to form $\alpha$ helix, reflecting the properties of the R group 
 
+alanine shows greatest tendency to form $\alpha$ helix 
 
+a constraint in formation of the alpha helix is presence of Pro or Gly residue
+
+
+
+### Beta Configuration
+
+1951 Pauling and Corey
