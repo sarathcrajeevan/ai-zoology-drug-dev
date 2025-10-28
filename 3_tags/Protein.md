@@ -73,10 +73,6 @@ $\beta$ turns connect adjacent segment of a antiparallel $\beta$ sheets
 
 
 
-```chem
-CC(C(=O)O)N
-```
-
 
 
 
