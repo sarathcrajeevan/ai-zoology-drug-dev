@@ -66,3 +66,9 @@ a constraint in formation of the alpha helix is presence of Pro or Gly residue
 ### Beta Configuration
 
 1951 Pauling and Corey
+in $\beta$ conformation the backbone of the polypeptide chains is extended into zigzag manner
+
+either parallel or antiparallel  
+$\beta$ turns connect adjacent segment of a antiparallel $\beta$ sheets   
+
+
