@@ -59,7 +59,7 @@ not all amino acid have [[intrinsic propensity]] to form $\alpha$ helix, reflect
 
 alanine shows greatest tendency to form $\alpha$ helix 
 
-a constraint in formation of the alpha helix is presence of Pro or Gly residue
+a constraint in formation of the alpha helix is presence of Pro or [[Glycine (Gly, G)]]residue
 
 
 

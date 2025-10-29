@@ -17,7 +17,7 @@ important role in proteins biological function
 
 ## Nonpolar Aliphatic Amino Acids
 
-Glycine (Gly, G)
+[[Glycine (Gly, G)]]
 ```smiles
 C(C(=O)O)N
 ```
