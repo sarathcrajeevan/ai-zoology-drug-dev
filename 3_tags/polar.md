@@ -6,4 +6,4 @@ tendency to interact with water at biological pH
 
 polar molecules are hydrophilic 
 
-an object is said to be polar if the [[curious/3_tags/electronegative]] difference between two elements are > 0.5
+an object is said to be polar if the [[electronegative]] difference between two elements are > 0.5
