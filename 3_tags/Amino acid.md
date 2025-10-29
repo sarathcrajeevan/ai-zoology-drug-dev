@@ -86,7 +86,8 @@ Tyrosine (Tyr, Y)
 Tryptophan (Trp, W)
 
 ```smiles
-c1cc2c(c1)c([nH]c2)CC(C(=O)O)N
+N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O
 ```
+
 
 
