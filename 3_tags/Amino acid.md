@@ -88,6 +88,50 @@ Tryptophan (Trp, W)
 ```smiles
 N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O
 ```
+## Polar Uncharged Amino Acids
+
+
+Serine (Ser, S)
+```smiles
+[NH3+][C@@H](CO)C([O-])=O
+```
+
+Threonine (Thr, T)
+
+```smiles
+[NH3+][C@@H]([C@H](O)C)C([O-])=O
 
 
 
+```
+
+
+Cysteine (Cys, C)
+
+```smiles
+[NH3+][C@@H](CS)C([O-])=O
+```
+
+Asparagine (Asn, N)
+```smiles
+[NH3+][C@@H](CC(=O)N)C([O-])=O
+```
+
+Glutamine (Gln, Q)
+```smiles
+[NH3+][C@@H](CCC(=O)N)C([O-])=O
+```
+## Positively Charged (Basic) Amino Acids
+
+
+Lysine (Lys, K)
+
+```smiles
+[NH3+][C@@H](CCCC[NH3+])C([O-])=O
+```
+
+
+Arginine (Arg, R)
+```smiles
+[NH3+][C@@H](CCCNC(=[NH2+])N)C([O-])=O
+```
