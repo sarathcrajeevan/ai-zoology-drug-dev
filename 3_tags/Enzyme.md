@@ -17,4 +17,5 @@ some require additional chemical group for the activity are called ***co-factor*
 some enzyme requires both co-enzyme and one or more metal ion for activity. a co-enzyme or tthe metal ion that is very tightly or even covalently bound to the enzyme is called prosthetic group
 
 
-A complete catalytically active enzyme together with its bound coenzyme 
+A complete catalytically active enzyme together with its bound coenzyme and metal ion are called holoenzyme 
+
