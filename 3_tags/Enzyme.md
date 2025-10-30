@@ -20,3 +20,15 @@ some enzyme requires both co-enzyme and one or more metal ion for activity. a co
 A complete catalytically active enzyme together with its bound coenzyme and metal ion are called holoenzyme 
 
 protein of such enzyme are called the apoenzyme or apoprotein
+
+
+
+### classification
+
+sometimes enzymes have two or more names  to limit 
+
+
+
+## How enzyme work
+
+
