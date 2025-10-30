@@ -135,3 +135,23 @@ Arginine (Arg, R)
 ```smiles
 [NH3+][C@@H](CCCNC(=[NH2+])N)C([O-])=O
 ```
+
+Histidine (His, H)
+```smiles
+[NH3+][C@@H](Cc1cnc[nH]1)C([O-])=O
+```
+## Negatively Charged (Acidic) Amino Acids
+
+
+Aspartate (Asp, D)
+
+```smiles
+[NH3+][C@@H](CC([O-])=O)C([O-])=O
+```
+
+
+Glutamate (Glu, E)
+
+```smiles
+[NH3+][C@@H](CCC([O-])=O)C([O-])=O
+```
