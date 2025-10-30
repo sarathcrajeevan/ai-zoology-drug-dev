@@ -72,10 +72,20 @@ either parallel or antiparallel
 $\beta$ turns connect adjacent segment of a antiparallel $\beta$ sheets   
 
 
+Ramachandran plot is the visual representation of combination of $\psi$ and $\phi$ dihedral angles  that are permitted in a peptide backbone
+
+
+## Tertiary and Quaternary structure
+
+three dimensional arrangement of the protein is referred to as the protein's tertiary structure 
+
+arrangement of protein structure in the three dimensional space is called quaternary structure 
+
+protein are classified on the base of higher structure into the fibrous protein with polypeptide chain arranged in long strand or sheets; globular proteins, with polypeptide chains folded into sprerical or globular shape
 
 
 
 
-	
+
 
 
