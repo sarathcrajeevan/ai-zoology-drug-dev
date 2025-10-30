@@ -29,15 +29,15 @@ sometimes enzymes have two or more names  to limit ambiguity biochemist worldwid
 
 
 
-| class number | class name      | type of reaction catalized                        |
-| ------------ | --------------- | ------------------------------------------------- |
-| 1            | oxidoreductases | transfer of electrons(hydride ion or H ion)       |
-| 2            | transferase     | Group transfer                                    |
-| 3            | hydrolases      | Hydrolysis(transfer of functional group to water) |
-| 4            | Lysases         |                                                   |
-| 5            |                 |                                                   |
-| 6            |                 |                                                   |
-| 7            |                 |                                                   |
+| class number | class name      | type of reaction catalized                                                                                                        |
+| ------------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1            | oxidoreductases | transfer of electrons(hydride ion or H ion)                                                                                       |
+| 2            | transferase     | Group transfer                                                                                                                    |
+| 3            | hydrolases      | Hydrolysis(transfer of functional group to water)                                                                                 |
+| 4            | Lysases         | Cleavage of C—C, C—O, C—N, or other bonds by elimination, leaving double<br>bonds or rings, or addition of groups to double bonds |
+| 5            | Isomerases      | Transfer of groups within molecules to yield isomeric forms                                                                       |
+| 6            | Ligases         | Formation of C—C, C—S, C—O, and C—N bonds by condensation reactions<br>coupled to cleavage of ATP or similar cofactor             |
+| 7            | Translocases    | Movement of molecules or ions across membranes or their seperation within membranes                                               |
 
 
 
@@ -51,3 +51,6 @@ sometimes enzymes have two or more names  to limit ambiguity biochemist worldwid
 ## How enzyme work
 
 
+The distinguishing feature of an enzyme-catalyzed reaction is that it takes place within the confines of a pocket on the enzyme called the **active site**
+
+The molecule that is bound in the active site and acted upon by the enzyme is called the **substrate**.
