@@ -34,11 +34,10 @@ sometimes enzymes have two or more names  to limit ambiguity biochemist worldwid
 | 1            | oxidoreductases | transfer of electrons(hydride ion or H ion)       |
 | 2            | transferase     | Group transfer                                    |
 | 3            | hydrolases      | Hydrolysis(transfer of functional group to water) |
-| 4            | Lysases         | Cleavage                                          |
+| 4            | Lysases         |                                                   |
 | 5            |                 |                                                   |
 | 6            |                 |                                                   |
 | 7            |                 |                                                   |
-|              |                 |                                                   |
 
 
 
