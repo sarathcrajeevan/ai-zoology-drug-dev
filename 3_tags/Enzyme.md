@@ -25,7 +25,27 @@ protein of such enzyme are called the apoenzyme or apoprotein
 
 ### classification
 
-sometimes enzymes have two or more names  to limit 
+sometimes enzymes have two or more names  to limit ambiguity biochemist worldwide has to adopt a system which divide this into seven class 
+
+
+
+| class number | class name      | type of reaction catalized                        |
+| ------------ | --------------- | ------------------------------------------------- |
+| 1            | oxidoreductases | transfer of electrons(hydride ion or H ion)       |
+| 2            | transferase     | Group transfer                                    |
+| 3            | hydrolases      | Hydrolysis(transfer of functional group to water) |
+| 4            | Lysases         | Cleavage                                          |
+| 5            |                 |                                                   |
+| 6            |                 |                                                   |
+| 7            |                 |                                                   |
+|              |                 |                                                   |
+
+
+
+
+
+
+
 
 
 
