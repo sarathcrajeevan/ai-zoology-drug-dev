@@ -54,3 +54,5 @@ sometimes enzymes have two or more names  to limit ambiguity biochemist worldwid
 The distinguishing feature of an enzyme-catalyzed reaction is that it takes place within the confines of a pocket on the enzyme called the **active site**
 
 The molecule that is bound in the active site and acted upon by the enzyme is called the **substrate**.
+
+
