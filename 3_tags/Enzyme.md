@@ -55,4 +55,8 @@ The distinguishing feature of an enzyme-catalyzed reaction is that it takes plac
 
 The molecule that is bound in the active site and acted upon by the enzyme is called the **substrate**.
 
+There is an energy barrier between S and P To undergo reaction, the molecules must overcome this barrier and therefore must be raised to a higher energy level This is called the **transition state**
+
+The difference between the energy levels of the ground state and the transition state is the **activation energy**
+
 
