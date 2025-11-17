@@ -98,6 +98,8 @@ sequence tab get the idea about the where the beta sheet is formed
 
 ## Missing Residues
 
-amino acid sequence which are present in the amnio acid sequence but not in the 
+amino acid sequence which are absent in the amnio acid sequence but present in the x ray crystallography
+
+
 
 
