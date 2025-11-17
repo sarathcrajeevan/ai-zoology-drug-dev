@@ -84,6 +84,16 @@ arrangement of protein structure in the three dimensional space is called quater
 protein are classified on the base of higher structure into the fibrous protein with polypeptide chain arranged in long strand or sheets; globular proteins, with polypeptide chains folded into sprerical or globular shape
 
 
+## PBD protein data bank
+
+
+resolution less is better
+
+first four letter code is pdb id unique identifier
+
+annotation tab get a idea about the class fold etc
+
+sequence tab get the idea about the where the beta sheet is formed
 
 
 
