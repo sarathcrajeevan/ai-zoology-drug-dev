@@ -96,6 +96,8 @@ annotation tab get a idea about the class fold etc
 sequence tab get the idea about the where the beta sheet is formed
 
 
+## Missing Residues
 
+amino acid sequence which are present in the amnio acid sequence but not in the 
 
 
