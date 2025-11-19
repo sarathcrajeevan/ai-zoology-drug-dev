@@ -102,4 +102,21 @@ amino acid sequence which are absent in the amnio acid sequence but present in t
 
 
 
+## Fixing missing residues using modeller
 
+download pdb file
+
+to get full length protein sequence download fasta format
+
+inside bin copy paste the repair1 folder which contain the python scripts
+
+open modeller open repair1 folder in modeller 
+
+type mod10.8 script1.py
+
+new file will appear .seq file
+
+script one basically extracted the amino acid sequence from the protein data bank file.
+
+
+to get the align the file we use pairwise alignment 
