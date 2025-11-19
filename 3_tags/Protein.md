@@ -120,3 +120,11 @@ script one basically extracted the amino acid sequence from the protein data ban
 
 
 to get the align the file we use pairwise alignment 
+
+copy the  .seq sequence and fasta file sequence and paste
+
+https://www.ebi.ac.uk/jdispatcher/psa/emboss_needle/summary?jobId=emboss_needle-I20251119-152829-0341-87626829-p2m
+
+open alignment file first open seq file copy content and paste it there  
+
+and from the fasta file copy the sequence and give gap
