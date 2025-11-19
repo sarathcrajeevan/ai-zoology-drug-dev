@@ -128,3 +128,10 @@ https://www.ebi.ac.uk/jdispatcher/psa/emboss_needle/summary?jobId=emboss_needle-
 open alignment file first open seq file copy content and paste it there  
 
 and from the fasta file copy the sequence and give gap
+
+run mod10.8 script2.py
+
+it will fill the gaps
+
+
+smaller the molpdf value better the structure
