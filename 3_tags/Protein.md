@@ -135,3 +135,11 @@ it will fill the gaps
 
 
 smaller the molpdf value better the structure
+
+## 3D structure prediction
+
+
+### Homology based algorithm
+
+
+
