@@ -142,4 +142,10 @@ smaller the molpdf value better the structure
 ### Homology based algorithm
 
 
+Copy and Paste the sequence in the BLAST-P query window and search the Protein Data Bank (PDB) to search appropriate structural templates
 https://blast.ncbi.nlm.nih.gov/Blast.cgi?PAGE=Proteins
+
+
+download the 4 best templates from PDB and rename them as tseq1, tseq2, tseq3 and tseq4
+
+
