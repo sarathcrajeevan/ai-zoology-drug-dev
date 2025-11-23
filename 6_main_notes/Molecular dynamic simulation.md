@@ -17,3 +17,5 @@ In biological molecules, there can be the [[covalent]] interactions, [[coulomb's
 ### 2.preparation of protein topology file
 The force fields are the mathematical description that we use to model how atoms and molecules interact with each other at the Atomic State.
 
+### 3. solvation and ionization
+
