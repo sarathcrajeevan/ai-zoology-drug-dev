@@ -8,3 +8,4 @@ higher boiling point
 
 higher solubility
 
+hydrogen, which is going to make a bond, should be covalently attached with highly electronegative element
