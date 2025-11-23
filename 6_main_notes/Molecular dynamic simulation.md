@@ -20,3 +20,15 @@ The force fields are the mathematical description that we use to model how atoms
 
 ### 3. solvation and ionization
 
+### 4. Energy minimization
+
+ steepest descent algorithm
+
+### 5. Equilibrium phase
+
+
+### 6.Production stage
+
+
+
+
