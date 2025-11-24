@@ -39,7 +39,11 @@ pdb2gmx = GROMACS function to prepare topology file
 
 -o = output file name
 
- -water
+ -water = define water system
+then we can see menu
+The topology files are going to be prepared by using the force field.
+
+These are the 15 type of the force fields which are available in the Gromacs system to prepare the topology
 ### 3. solvation and ionization
 
 ### 4. Energy minimization
