@@ -3,6 +3,10 @@
 initial positions of all atoms 
 
 
+
+
+
+
 ## inter atomic energies
 
 
@@ -14,7 +18,48 @@ In biological molecules, there can be the [[covalent]] interactions, [[coulomb's
 
 ### 1.preparation of protein 3D structure
 
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 protein.pdb"
+    exit 1
+fi
+
+PDB_FILE="$1"
+FIXED_PDB="fixed_${PDB_FILE%.pdb}.pdb"
+GRO_FILE="fixed_${PDB_FILE%.pdb}.gro"
+
+
+source ~/miniconda3/bin/activate gmx
+
+
+python - <<EOF
+from pdbfixer import PDBFixer
+from openmm.app import PDBFile
+
+fixer = PDBFixer(filename='$PDB_FILE')
+fixer.findMissingResidues()
+fixer.findMissingAtoms()
+fixer.addMissingAtoms()
+fixer.addMissingHydrogens(pH=7.0)
+
+PDBFile.writeFile(fixer.topology, fixer.positions, open('$FIXED_PDB', 'w'))
+print("Fixed PDB saved as $FIXED_PDB")
+EOF
+
+# Step 2: Generate GROMACS files
+gmx pdb2gmx -f "$FIXED_PDB" -o "$GRO_FILE" -water tip3p
+
+echo "GROMACS .gro file saved as $GRO_FILE"
+echo "Done!">
+
+run   -   ./fix_protein.sh protein.pdb
+
+
+
+
+
+
 Step-1: Clean your structure from water 
+
 
 grep -v HOH your_structure.pdb > str_clean.pdb
 
