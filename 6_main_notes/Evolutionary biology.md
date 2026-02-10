@@ -15,7 +15,7 @@ later variants of the virus had combination of mutation in the gene for virus sp
 evolutionary biology extends and amplifies the explanation of biological phenomena it studies proximate causes (immediate ) and ultimate causes (historical)
 
 
-Odasious Dobzhansky wrote nothing in the biology makes sense except in the light of evolution
+Theodosius Dobzhansky wrote nothing in the biology makes sense except in the light of evolution
 
 
 ## What is Evolution
