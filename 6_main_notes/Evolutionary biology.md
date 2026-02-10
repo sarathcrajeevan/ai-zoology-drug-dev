@@ -28,9 +28,11 @@ simply means change
 
 inherited change in the properties of groups of organisms over the course of generations
 
-Darwin pharsed it the evolution is deseny with modification
+Darwin pharsed it the evolution is decent with modification
 
-stress of firefly neurodegenaration
+stress of firefly neurodegeneration
+
+
 
 
 
