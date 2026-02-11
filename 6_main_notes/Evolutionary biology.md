@@ -35,6 +35,21 @@ stress of firefly neurodegeneration
 
 
 
+## Darwin's evolutionary theory
+
+
+Origin of species contain two major theories 
+
+#### Descent with modification
+it tells that all species living extinct descended from a common ancestor are very similar at the beginning and make difference over a large span of time
+
+#### Natural selection
+
+if variation useful to the organism occur there are high chances of preserving it 
+
+
+
+
 
 
 
