@@ -48,7 +48,9 @@ it tells that all species living extinct descended from a common ancestor are ve
 if variation useful to the organism occur there are high chances of preserving it 
 
 
+natural selection was darwins brilliant hypothesis, independently conceived by wallamce
 
+but there was a gap in the darwins theory that where does this variation came? that was already answerd in the mendells theory of particulate inheritance 
 
 
 
